@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-/**Вариант № 3 */
+
 public class Main {
 
 
